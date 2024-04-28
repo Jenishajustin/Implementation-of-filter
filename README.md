@@ -138,26 +138,27 @@ plt.title('Laplacian Operator')
 i) Using Averaging Filter
 
 </br>
-![Screenshot 2024-04-28 075908](https://github.com/Jenishajustin/Implementation-of-filter/assets/119405070/090c7b19-d2a6-42c1-9629-3b4dfa427319)
+
+<img src="https://github.com/Jenishajustin/Implementation-of-filter/assets/119405070/090c7b19-d2a6-42c1-9629-3b4dfa427319" height=300 width=800>
 
 </br>
 
 
 ii) Using Weighted Averaging Filter
 </br>
-![Screenshot 2024-04-28 080007](https://github.com/Jenishajustin/Implementation-of-filter/assets/119405070/183abc6b-12e7-4d58-91d3-692d45a7a4ed)
+<img src="https://github.com/Jenishajustin/Implementation-of-filter/assets/119405070/183abc6b-12e7-4d58-91d3-692d45a7a4ed" height=300 width=450>
 
 </br>
 
 iii) Using Gaussian Filter
 </br>
-![Screenshot 2024-04-28 080035](https://github.com/Jenishajustin/Implementation-of-filter/assets/119405070/489630b6-6844-44b6-9681-385f499e6c28)
+<img src="https://github.com/Jenishajustin/Implementation-of-filter/assets/119405070/489630b6-6844-44b6-9681-385f499e6c28" height=300 width=450>
 
 </br>
 
 iv) Using Median Filter
 </br>
-![Screenshot 2024-04-28 080103](https://github.com/Jenishajustin/Implementation-of-filter/assets/119405070/24b76ee9-e42e-4960-8f1a-2da88e15c01e)
+<img src="https://github.com/Jenishajustin/Implementation-of-filter/assets/119405070/24b76ee9-e42e-4960-8f1a-2da88e15c01e" height=300 width=450>
 
 </br>
 
@@ -166,13 +167,13 @@ iv) Using Median Filter
 
 i) Using Laplacian Kernal
 </br>
-![Screenshot 2024-04-28 080132](https://github.com/Jenishajustin/Implementation-of-filter/assets/119405070/900d8186-3ca1-4087-93fe-e00a458865dd)
+<img src="https://github.com/Jenishajustin/Implementation-of-filter/assets/119405070/900d8186-3ca1-4087-93fe-e00a458865dd" height=300 width=450>
 
 </br>
 
 ii) Using Laplacian Operator
 </br>
-![Screenshot 2024-04-28 080155](https://github.com/Jenishajustin/Implementation-of-filter/assets/119405070/cc78d5ab-c514-43f0-823e-a483fa905f5b)
+<img src="https://github.com/Jenishajustin/Implementation-of-filter/assets/119405070/cc78d5ab-c514-43f0-823e-a483fa905f5b" height=300 width=450>
 
 </br>
 
